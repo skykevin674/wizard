@@ -1,0 +1,27 @@
+{
+  "name": "xc-wizard",
+  "version": "0.0.6",
+  "peerDependencies": {
+    "@angular/common": "^7.0.0",
+    "@angular/core": "^7.0.0"
+  },
+  "dependencies": {
+    "lodash-es": "^4.17.11",
+    "ng-zorro-antd": "^7.0.0",
+    "tslib": "^1.9.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com:skykevin674/wizard.git"
+  },
+  "main": "bundles/xc-wizard.umd.js",
+  "module": "fesm5/xc-wizard.js",
+  "es2015": "fesm2015/xc-wizard.js",
+  "esm5": "esm5/xc-wizard.js",
+  "esm2015": "esm2015/xc-wizard.js",
+  "fesm5": "fesm5/xc-wizard.js",
+  "fesm2015": "fesm2015/xc-wizard.js",
+  "typings": "xc-wizard.d.ts",
+  "metadata": "xc-wizard.metadata.json",
+  "sideEffects": false
+}
